@@ -1,5 +1,7 @@
 # FuckAliyun | 阿里云监控程序一键清除工具
 *清除阿里云ECS/轻量中的安骑士、云盾、云监控一键工具*
+* GitHub项目地址：[https://github.com/wangkai6688/fuckaliyun](https://github.com/wangkai6688/fuckaliyun)
+* Gitee项目地址：[https://gitee.com/kai2333/FuckAliyun](https://gitee.com/kai2333/FuckAliyun)
 * 介绍页：[https://www.wangkai88.com/archives/201/](https://www.wangkai88.com/archives/201/)
 ## Shell For Linux(32bit/64bit)
 ### 运行清除脚本
