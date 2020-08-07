@@ -6,14 +6,22 @@
 ## Shell For Linux(32bit/64bit)
 ### 运行清除脚本
 * 请切换至root账户后运行，参考命令`sudo -i`、`su`
+#### 使用GitHub源安装(推荐海外服务器)
 ```
 wget https://raw.githubusercontent.com/wangkai6688/fuckaliyun/master/fuckaliyun.sh -O ./fuckaliyun.sh
+chmod +x fuckaliyun.sh
+./fuckaliyun.sh
+```
+#### 使用Gitee源安装(推荐国内服务器)
+```
+wget https://gitee.com/kai2333/FuckAliyun/raw/master/fuckaliyun.sh -O ./fuckaliyun.sh
 chmod +x fuckaliyun.sh
 ./fuckaliyun.sh
 ```
 * 等待运行完毕即可
 ---
 ## 中国大陆地区服务器若连接GitHub服务存在问题请使用以下命令
+**推荐全球任何服务器使用此地址**
 ```
 wget https://cdn.jsdelivr.net/gh/wangkai6688/fuckaliyun/fuckaliyun.sh -O ./fuckaliyun.sh
 chmod +x fuckaliyun.sh
